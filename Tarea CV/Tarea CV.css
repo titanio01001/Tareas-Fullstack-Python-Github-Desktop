@@ -1,0 +1,68 @@
+/* CSS styles */
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190617/ourmid/pngtree-blue-gradient-electronic-programming-01011-creative-background-image_127504.jpg);
+  }
+  
+  h1 {
+  margin-top: 100px;  
+  letter-spacing: 3px;
+  font-family: "Audiowide", sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+    
+  }
+  h2 {
+  font-family: Titillium Web, sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+    
+  }	  
+  
+  h3 {
+    
+  font-family: Titillium Web, sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+  }
+  
+  
+  p1 {
+  font-family: Titillium Web, sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+  margin-left: 80px;
+  
+  }
+  
+  
+  img {
+    margin-top: -420px;
+    padding: 50px;
+  }
+  
+  
+  div {
+    text-align: justify;
+    width: 300px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+  }
+  
+
+  
+  h4 {
+    padding-right: 30px;
+    padding-left: 70px;
+    font-family: Titillium Web, sans-serif;
+    color: #FFFFFF;
+  }
+  
+  
+  
+  p {
+    border-left: 6px solid cyan;
+    padding-left: 60px;
+    font-family: Titillium Web, sans-serif;
+    color: #FFFFFF;
+  }
