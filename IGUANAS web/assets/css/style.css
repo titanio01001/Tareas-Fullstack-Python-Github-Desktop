@@ -24,7 +24,7 @@ p {
     font-size: 16px;
     color: #FFFFFF;
     text-align: left;
-    padding-right: 42em;
+    scroll-padding-right: 40em;
     padding-left: 8em;
     padding-top: 6em;
     padding-bottom: 4em;
@@ -41,10 +41,29 @@ p {
     margin-right: 8em;
     float: right;
     padding-top: 4em;
-    padding-bottom: 4em;
+    padding-bottom: 3em;
+    padding-left: 8em;
 }
 
 h2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+nav {
+    padding-top: 2.5em;
+    text-align-last: center;
+    margin-top: 4em;
+    margin-bottom: 5em;
+    height: 346px;
+    width: 100%;
+    background-color: #1E1A13;
+    opacity: 0.98;
+}
+
+h3 {
     text-align: center;
     font-family: "Raleway", sans-serif;
     font-weight: 300;
