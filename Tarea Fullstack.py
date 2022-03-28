@@ -48,3 +48,14 @@ class IMC:
         
 IMC1= IMC(float(input("Introduce tu peso (kilogramos): ")), float(input("Introduce tu estatura (metros): ")))
 IMC1.myfunc()
+
+class div:
+    def __init__(self, n, m):
+            self.n = n
+            self.m = m
+    def myfunc(self):
+        print(str(self.n) + " entre "+ str(self.m) + " da un cociente " + str(int(self.n) // int(self.m)) + " y un resto " + str(int(self.n) % int(self.m)))
+        
+IMC1= div(float(input("Introduce un número entero: ")), float(input("Introduce otro número entero: ")))
+IMC1.myfunc()
+
